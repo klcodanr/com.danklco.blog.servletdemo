@@ -1,0 +1,10 @@
+Completed Requests,Exceptions,50th Percentile,100th Percentile,90th Percentile,95th Percentile,Requests Per Second,75th Percentile,Time per Request,File Name,Concurrency Level
+5000,,3,23,4,4,1525.46,3,3.278,AuthPathServlet.txt,5
+5000,,3,24,4,4,1619.79,3,3.087,AuthResourceServlet.txt,5
+5000,,3,23,4,4,1598.95,3,3.127,ServiceUserPathServlet.txt,5
+5000,,3,47,5,12,1220.88,4,4.095,HelloWorldPathServlet.txt,5
+5000,,3,190,4,4,1405.78,3,3.557,HelloWorldResourceServlet.txt,5
+5000,,3,45,4,4,1537.66,3,3.252,ServiceUserResourceServlet.txt,5
+5000,,1,80,2,2,2971.30,2,1.683,AuthOsgiServlet.txt,5
+5000,,1,35,1,1,7312.09,1,0.684,ServiceUserOsgiServlet.txt,5
+5000,,0,1,0,1,12379.27,0,0.404,HelloWorldOsgiServlet.txt,5
